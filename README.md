@@ -59,8 +59,7 @@ spliceBtnEl.onclick = function() {
 
     spanEl.textContent = arr;
 }
-Learning Outcomes
-
+Learning Outcomes=
 By building this project, you can learn:
 
 DOM Manipulation
@@ -73,5 +72,4 @@ Future Improvements
 Add input validation
 Support multiple items addition
 Show deleted elements separately
-Improve UI animations
-Add reset button
+
